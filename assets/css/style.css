@@ -1,0 +1,36 @@
+body {
+    background-image: url("../../assets/img/feve_cacao.jpg");
+    background-size: 100%;
+     
+}
+
+#letterColor{
+
+color: brown;
+
+}
+
+.colorNavBar{
+
+background-color: #F4F3F1;
+
+}
+
+#fa-shopping-cart {
+    color: #2B180F;
+    }
+
+.typeOfFont{
+    font-family: Stencil Std, fantasy;
+}
+
+
+.sizeOfFont{
+    font-size: 1.5rem;
+}
+
+
+.margeMenu{
+    margin: 0px 2rem;
+}
+
